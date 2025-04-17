@@ -13,7 +13,6 @@ The primary goal of this project is to predict critic ratings for video games us
 ## 📂 Dataset Reference
 
 **Source**: [Games Metadata and Ratings (5k+ dataset)](https://www.kaggle.com/datasets/bhanuprakashchegondi/games-metadata-and-ratings-5k-dataset)  
-**Author**: Bhanu Prakash Chegondi  
 The dataset contains 5,000+ video games and includes:
 - Game title, platform, genre, release year
 - Developer and publisher
@@ -92,9 +91,4 @@ MS Business Analytics | MSIS | University of Cincinnati
 Roles: Data Preparation, Modeling, Evaluation, and Presentation
 
 ---
-
-## 📄 License
-
-This project is intended for educational use only.  
-Dataset provided by [Bhanu Prakash Chegondi on Kaggle](https://www.kaggle.com/datasets/bhanuprakashchegondi/games-metadata-and-ratings-5k-dataset).
 
