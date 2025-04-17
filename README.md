@@ -85,9 +85,9 @@ The final presentation includes a visual walkthrough of the pipeline, model perf
 
 ## 👥 Contributors
 
-**Silpa Prakash Rao** 
-**Vivek** 
-**Supriya** 
+**Silpa Prakash Rao**   
+**Vivek**   
+**Supriya**   
 
 MS Business Analytics | MSIS | University of Cincinnati  
 Roles: Data Preparation, Modeling, Evaluation, and Presentation
