@@ -26,3 +26,57 @@ The dataset contains 5,000+ video games and includes:
 
 ## 🧱 System Architecture
 
+
+- **Data Collection**: Sourced structured game metadata from Kaggle
+- **Preprocessing**: Cleaned data, handled missing values, transformed categorical fields
+- **Feature Engineering**: Extracted relevant features such as platform type, normalized scores, one-hot encoding
+- **Modeling**: Used tree-based models for prediction (e.g., Random Forest, XGBoost)
+- **Evaluation**: Measured model accuracy using RMSE and MAE
+- **Visualization**: Created visual summaries and insights for stakeholders
+
+---
+
+## ⚙️ Technologies Used
+
+- **Languages**: Python
+- **Libraries**: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
+- **Tools**: Jupyter Notebooks, Git, PowerPoint
+
+---
+
+## 📈 Modeling Highlights
+
+- **XGBoost** delivered the best performance due to its ability to handle non-linear patterns
+- **Feature Importance** showed critic reviews, release year, and platform as key predictors
+- Handled categorical encoding with one-hot and frequency-based techniques
+- Future gains can be achieved by incorporating game descriptions and review texts using NLP
+
+---
+
+## 🧪 Key Challenges
+
+- High cardinality in fields like *developer* and *platform*
+- Incomplete or biased entries in review scores
+- Limited computational resources for advanced tuning
+- Ensuring full reproducibility and modular coding
+
+---
+
+## 🚀 Future Enhancements
+
+- Add **sentiment analysis** from user reviews using NLP
+- Use **embeddings** to encode high-cardinality categorical variables
+- Deploy using **Flask** or **FastAPI** for real-time usage
+- Build a **CI/CD pipeline** to automate model retraining and monitoring
+
+---
+
+## 📽️ Demo
+
+The final presentation includes a visual walkthrough of the pipeline, model performance, and key findings.  
+📂 [Predicting_Video_Game_Ratings_Presentation.pptx](./Predicting_Video_Game_Ratings_Presentation.pptx)
+
+---
+
+## 📁 Repository Structure
+
