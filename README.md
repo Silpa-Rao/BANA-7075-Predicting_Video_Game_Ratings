@@ -81,3 +81,21 @@ The final presentation includes a visual walkthrough of the pipeline, model perf
 
 ## 📁 Repository Structure
 
+---
+
+## 👥 Contributors
+
+**Silpa Prakash Rao**
+**Vivek**
+**Supriya**
+**
+MS Business Analytics | MSIS | University of Cincinnati  
+Roles: Data Preparation, Modeling, Evaluation, and Presentation
+
+---
+
+## 📄 License
+
+This project is intended for educational use only.  
+Dataset provided by [Bhanu Prakash Chegondi on Kaggle](https://www.kaggle.com/datasets/bhanuprakashchegondi/games-metadata-and-ratings-5k-dataset).
+
